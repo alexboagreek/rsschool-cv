@@ -5,6 +5,8 @@
 }
 .wrapper{
     display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
 }
 body{
     background: #f5f7fa;
@@ -14,10 +16,16 @@ body{
 }
 .sidebar{
     background-color: #1e2939;
-    max-width: 370px;
+    width: 370px;
     padding-top: 40px;
     padding-bottom: 40px;
 }
 .my-photo{
-    max-width: 370px;
+    width: 370px;
+}
+.about__me{
+    padding: 90px 90px 90px 110px;
+}
+.project__info{
+    text-align: left;
 }
