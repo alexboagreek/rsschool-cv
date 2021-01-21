@@ -1,4 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    display: flex;
+}
 body{
- font-family: 'Montserrat', sans-serif;
- 
+    background: #f5f7fa;
+     font-family: 'Montserrat', sans-serif;
+     padding: 20px;
+
+}
+.sidebar{
+    background-color: #1e2939;
+    max-width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.my-photo{
+    max-width: 370px;
 }
