@@ -18,7 +18,7 @@ body{
 
 .sidebar{
     background-color: #1e2939;
-    max-width: 290px;
+    min-width: 290px;
     padding-top: 40px;
     padding-bottom: 40px;
 }
@@ -158,3 +158,12 @@ body{
 .education__title{
     margin-top: 10px;
 }
+
+/* footer styles start */
+.rss__logo img{
+    width: 68px;
+    height: 68px;
+    padding-right: 28px;
+}
+
+/*footer styles end */

@@ -1,3 +1,5 @@
 # rsschool-cv
- https://alexboagreek.github.io/rsschool-cv/cv
- https://github.com/alexboagreek/rsschool-cv/tree/rsschool-cv-html
+ 
+[link](https://alexboagreek.github.io/rsschool-cv/cv)
+
+[link](https://github.com/alexboagreek/rsschool-cv/tree/rsschool-cv-html)
